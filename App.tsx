@@ -96,6 +96,7 @@ const App = () => {
         style={{
           marginHorizontal: 10,
           marginTop: 10,
+          
         }}>
         <View
           style={{
